@@ -39,7 +39,7 @@
 ### Семинар
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись семинара &laquo;Лекция. Vision Transformer. Part 2&raquo; доступна на</span>
+  <span>Запись семинара &laquo;Семинар. Vision Transformer&raquo; доступна на</span>
   <a href="https://youtu.be/Nt4Ul8YAaG8?si=AVE8O5dF7nngSL_q" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
   </a>
